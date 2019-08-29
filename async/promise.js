@@ -15,6 +15,7 @@ var myPromisse = function() {
         }
     });
 }
+
 // var result = myPromisse()
 //     .then(function(response) {
 //         console.log(response);
