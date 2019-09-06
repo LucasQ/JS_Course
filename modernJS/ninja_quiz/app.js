@@ -13,7 +13,7 @@ form.addEventListener('submit', e => {
         if (answer === correctAnswers[index]) {
             score += 25;
         }
-    });
+    }); 
     
     result.classList.remove('d-none');
     
